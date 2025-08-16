@@ -1,0 +1,9 @@
+{
+  "components": [    
+{ "name": "Button", "path": "src/components/Button.jsx" },
+    { "name": "Input", "path": "src/components/Input.jsx" },
+    { "name": "NavBar", "path": "src/components/NavBar.jsx" },
+    { "name": "LoginForm", "path": "src/components/LoginForm.jsx" }],
+  "projectId": "30gVaJbJ46zXG2bAzOzytQNLCnn",
+  "projectName": "Yes Kumar's Team's Project"
+}
